@@ -1,16 +1,16 @@
-## Hi there 👋
+# DholeraMaster
 
-<!--
-**DholeraMaster/DholeraMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent research on Dholera SIR land: prices, TP schemes, zones and risks.
 
-Here are some ideas to get you started:
+## Research
+- [Dholera land price trend 2016–2026](https://www.dholeramaster.com/insights/growth-journey)
+- [All 16 Dholera TP scheme maps](https://www.dholeramaster.com/insights/maps)
+- [Inside vs outside Dholera SIR](https://www.dholeramaster.com/inside-vs-outside-dholera-sir)
+- [Checklist before buying land in Dholera](https://www.dholeramaster.com/before-you-buy)
+- [Dholera infrastructure status 2026](https://www.dholeramaster.com/insights/blog/dholera-infrastructure-status-2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- [Land area converter (sq yd, sq m, bigha, acre)](https://www.dholeramaster.com/services/area-converter)
+- [DholeraGIS route tool](https://www.dholeramaster.com/dholera-gis)
+
+🌐 https://www.dholeramaster.com
